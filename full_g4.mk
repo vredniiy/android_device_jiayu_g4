@@ -28,5 +28,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_g4
 PRODUCT_DEVICE := g4
-PRODUCT_BRAND := jiayu
-PRODUCT_MODEL := AOSP on g4
+PRODUCT_BRAND := JiaYu
+PRODUCT_MODEL := JY-G4_G5
