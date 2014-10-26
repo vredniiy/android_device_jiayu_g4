@@ -40,7 +40,7 @@ USE_CAMERA_STUB := true
 #include vendor/jiayu/g4/BoardConfigVendor.mk
 include device/jiayu/g4/BoardConfigCommon.mk
 
-TARGET_RECOVERY_FSTAB = device/jiayu/g4/root/fstab.mt6589
+TARGET_RECOVERY_FSTAB = device/jiayu/g4/root/recovery.fstab
 
 BOARD_CUSTOM_MKBOOTIMG := mkmtkbootimg
 
